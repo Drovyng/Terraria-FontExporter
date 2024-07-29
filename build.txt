@@ -1,4 +1,4 @@
 displayName = Font Exporter
 author = Drovyng
-version = 1
+version = 1.1
 homepage = https://github.com/Drovyng/Terraria-FontExporter/
