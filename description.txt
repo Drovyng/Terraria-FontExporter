@@ -1,0 +1,1 @@
+This mod allows you to export terraria fonts by symbols as an image and a file with positions
